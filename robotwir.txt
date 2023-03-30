@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://puskesmaswiradesa.pekalongankab.go.id/upload/galeri/slot-deposit-pulsa/sitemap.xml
