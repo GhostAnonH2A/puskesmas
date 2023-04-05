@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://puskesmastirto1.pekalongankab.go.id/images/web/slot-thailand/sitemap.xml
