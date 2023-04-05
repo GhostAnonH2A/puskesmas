@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://puskesmaswonokerto1.pekalongankab.go.id/images/web/slot-deposit-pulsa/sitemap.xml
